@@ -1,11 +1,6 @@
 ## The Care
 
-- mytimeline
-- status care (status non-care)(Full Dashboard Analitics, grafics, simple views)
-- timeline humans, society, local, close
-- clouds needs
-- categories needs
-- only my needs
-- real needs
-- existence
-- experts
+- Timeline (my, humans, society, local, close)
+- Full Dashboard (status care, status non-care, Analitics, grafics, simple views)
+- Needs (clouds, categories, only my, real, existence)
+- Experts
